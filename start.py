@@ -1,5 +1,5 @@
 print("Hello!, TGNAS")
 a="Joshna"
-b=" Dhanalakshmi"
+b=" Dhana"
 c=a+b
 print(c)
